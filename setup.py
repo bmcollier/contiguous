@@ -5,7 +5,7 @@ with open('README.md') as f:
 
 setup(
     name='contiguous',
-    version='0.0.0',
+    version='0.0.1',
     packages=['tests', 'contiguous'],
     url='https://github.com/bmcollier/contiguous',
     license='3-Clause BSD',
