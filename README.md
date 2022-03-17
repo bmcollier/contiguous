@@ -1,2 +1,2 @@
 # division
-Provides COBOL-style data structures in Python
+Provides COBOL-style contiguous nested data structures in Python
